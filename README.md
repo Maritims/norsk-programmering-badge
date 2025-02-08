@@ -17,6 +17,6 @@ Include the JavaScript file and add the web component to your page(s).
 ```html
 <body>
     <norsk-programmering-badge></norsk-programmering-badge>
-    <script src="norsk-programmering-badge.js">
+    <script src="norsk-programmering-badge.js"></script>
 </body>
 ```
